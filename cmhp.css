@@ -1,0 +1,248 @@
+/* homepage */
+
+
+#content
+{
+    height: 40em;   
+}
+
+
+
+#menu
+{
+    border: 1px solid black;
+}
+
+body 
+{
+    font-family: Times;
+    
+}
+/* menu */
+
+
+
+.doingbutton 
+{
+    background-color: teal;
+    color: #FFFFFF;
+    width: 400px;
+    padding: 15px 0;
+    float: center;
+}
+
+
+
+button 
+{
+    border: none;
+    outline: none;
+    font-weight: italic;
+    cursor: pointer;
+    border-radius: 12px;
+    padding: 20px 200px;
+    margin: auto;
+    font-size: 15px;  
+}
+
+.options
+{
+    display: inline-flex;
+}
+
+#logout 
+{
+    background-color: #ff0000;
+    color: #FFFFFF;
+    float: right;
+    margin-top: 12px;
+    margin-left: 6px;
+    padding: 12px 0;
+    width: 170px;
+}
+
+.doingbutton:hover 
+{
+    background-color: #b2b2ff;
+   
+}
+
+username
+{
+    margin-right: 550px;
+}
+
+
+#logout:hover 
+{
+    background-color: #aba9a9;
+   
+}
+
+/* compose */
+
+
+#mess
+{
+    background-color: #0000ff;
+    color: #FFFFFF;
+    padding: 100px 0;
+}
+
+#header 
+{
+    padding: 15px 0;
+    margin-right: 20px;
+}
+
+
+
+fieldset 
+{
+    background-color: #cecccc;
+}
+
+.textfield {
+    width: 100%;    
+}
+
+textarea 
+{
+    width: 40%;  
+    height: 400px;
+    font-family: Times;
+} 
+
+#Send 
+{
+    background-color: #05abe9;
+    padding: 10px 25px;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+
+#Send:hover
+{
+    background-color: #969494;
+}
+
+/* inbox */
+
+
+#h1 {
+    margin: auto;
+    padding: 10px 40px 10px 16px;
+}
+
+#h2 {
+    margin: auto;
+    padding: 10px 60px;
+}
+
+#h3 {
+    margin: auto;
+    padding: 10px 400px;
+}
+
+
+#table_header 
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#table_header td 
+{
+    border-bottom: 1px solid #CECCCC;
+}
+
+#tableheader tr:hover td
+{
+    background-color: #969494;
+    cursor: pointer;
+}
+
+/* read */
+
+
+#subject2 {
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#from 
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 50px;
+    color: #707070;
+}
+
+.readme {
+    border: 1px solid white;    
+    width: 1200px;
+    margin-left: 70px;
+}
+
+hr 
+{
+    border: 1px solid #969494;
+}
+
+#hr2 
+{
+    border: 1px solid #707070;
+    /* width: 1300px; */
+}
+
+#message_body 
+{
+    margin-left: 50px;
+}
+
+.unread 
+{
+    font-weight: bold;   
+}
+
+#reply 
+{
+    
+}
+
+/* contacts */
+
+table 
+{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    color: #FFFFFF;
+    border-color: #CECCCC;
+}
+
+h2 
+{
+    text-align: center;
+}
+
+th 
+{
+    margin: auto;
+    padding: 0 90px;   
+    background-color: #222222;
+} 
+
+td 
+{
+    padding: 5px 70px;
+    background-color: #DDDDDD;
+    color: #222222;
+}
+
+
+
